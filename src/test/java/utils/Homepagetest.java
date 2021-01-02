@@ -75,7 +75,7 @@ public class Homepagetest {
 				}
 			
 				Thread.sleep(5000);
-			
+			System.out.println(list);
 			}
 
 			/*
